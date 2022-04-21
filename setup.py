@@ -7,6 +7,6 @@ setup(
     description = "Paquete que permite vañodar errores de tipo tinyInt",
     author = "Javier Bayter",
     author_email = "jabayter@uninorte.edu.co",
-    url = "",
+    url = "https://github.com/Potter-Gryffindor/tinyIntErrorProject",
     keyword = ['error', 'tinyInt', 'int']
 )
