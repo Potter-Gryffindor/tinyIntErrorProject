@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+package/__init__.py
+package/error.py
+package/validates.py
+tinyIntError.egg-info/PKG-INFO
+tinyIntError.egg-info/SOURCES.txt
+tinyIntError.egg-info/dependency_links.txt
+tinyIntError.egg-info/top_level.txt
